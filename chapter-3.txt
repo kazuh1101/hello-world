@@ -1,0 +1,4 @@
+english
+日本語
+JAPANESE ＪＡＰＥＮＥＳＥ
+UNICODE?
